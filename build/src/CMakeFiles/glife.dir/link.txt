@@ -1,0 +1,1 @@
+/usr/bin/clang++  -Wall -pedantic CMakeFiles/glife.dir/main.cpp.o CMakeFiles/glife.dir/life.cpp.o -o glife  ../lib/libcanvas.a ../lib/libtip.a ../lib/liblodepng.a 

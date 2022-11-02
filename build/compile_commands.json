@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/build/lib",
+  "command": "/usr/bin/clang++  -I/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/lib/.  -Wall -pedantic -std=gnu++17 -o CMakeFiles/lodepng.dir/lodepng.cpp.o -c /home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/lib/lodepng.cpp",
+  "file": "/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/lib/lodepng.cpp"
+},
+{
+  "directory": "/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/build/lib",
+  "command": "/usr/bin/clang++  -I/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/lib/.  -Wall -pedantic -std=gnu++17 -o CMakeFiles/canvas.dir/canvas.cpp.o -c /home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/lib/canvas.cpp",
+  "file": "/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/lib/canvas.cpp"
+},
+{
+  "directory": "/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/build/lib",
+  "command": "/usr/bin/clang++  -I/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/lib/.  -Wall -pedantic -std=gnu++17 -o CMakeFiles/tip.dir/tip.cpp.o -c /home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/lib/tip.cpp",
+  "file": "/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/lib/tip.cpp"
+},
+{
+  "directory": "/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/build/src",
+  "command": "/usr/bin/clang++  -I/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/lib  -Wall -pedantic -std=gnu++17 -o CMakeFiles/glife.dir/main.cpp.o -c /home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/src/main.cpp",
+  "file": "/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/src/main.cpp"
+},
+{
+  "directory": "/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/build/src",
+  "command": "/usr/bin/clang++  -I/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/lib  -Wall -pedantic -std=gnu++17 -o CMakeFiles/glife.dir/life.cpp.o -c /home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/src/life.cpp",
+  "file": "/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/src/life.cpp"
+}
+]

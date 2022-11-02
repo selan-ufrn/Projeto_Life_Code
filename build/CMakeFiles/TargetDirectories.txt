@@ -1,0 +1,10 @@
+/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/build/CMakeFiles/edit_cache.dir
+/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/build/CMakeFiles/rebuild_cache.dir
+/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/build/lib/CMakeFiles/lodepng.dir
+/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/build/lib/CMakeFiles/canvas.dir
+/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/build/lib/CMakeFiles/tip.dir
+/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/build/lib/CMakeFiles/edit_cache.dir
+/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/build/lib/CMakeFiles/rebuild_cache.dir
+/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/build/src/CMakeFiles/glife.dir
+/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/build/src/CMakeFiles/edit_cache.dir
+/home/selan/Teaching/LP1/coursework/Projects/Project_Life/Prj_02_GameOfLife/ghc/glife_desc/build/src/CMakeFiles/rebuild_cache.dir
