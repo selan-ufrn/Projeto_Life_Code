@@ -1,2 +1,0 @@
-/usr/bin/ar qc libtip.a CMakeFiles/tip.dir/tip.cpp.o
-/usr/bin/ranlib libtip.a
