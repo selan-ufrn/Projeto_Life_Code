@@ -33,18 +33,8 @@ int main(int argc, char* argv[])
         return 1;
     }
 
-    // [2]== RETRIEVE DATA.
-    auto sections = reader.get_sections_list();
-    for (const auto& sec_name : sections) {
-        auto fields = reader.get_fields_list(sec_name);
-        std::cout << ">>> Field: " << std::quoted(sec_name) << "\n\t";
-        for (const auto& field_name : fields)
-            std::cout << std::quoted(field_name) << " ";
-        std::cout << '\n';
-    }
-
     // Try to get pi value.
-    auto val = reader.get_real("ROOT", "max_gen");
+    auto val = reader.get_int("ROOT", "max_gen");
     if (not reader.parsing_ok()) {
         std::cout << ">>> Error while retrieving \"max_gen\" field." << '\n';
         std::cout << "    Msg = " << std::quoted(reader.parser_error_msg()) << '\n';
@@ -53,7 +43,7 @@ int main(int argc, char* argv[])
     }
 
     // Try to get user current active status.
-    auto create_img = reader.get_bool("ROOT", "generate_image");
+    auto create_img = reader.get_bool("image", "generate_image");
     if (not reader.parsing_ok()) {
         std::cout << ">>> Error while retrieving \"generate_image\" field." << '\n';
         std::cout << "    Msg = " << std::quoted(reader.parser_error_msg()) << '\n';
